@@ -1,5 +1,5 @@
 DEN_DEN
-2.0.90.0
-https://den-den.vercel.app/den-den/releases/2.0.90.0.zip
-2ca300858926f6977f30a93b00540e0d69d6cba02cd3657d89cc2b6af5b77993
-132679
+2.0.92.0
+https://den-den.vercel.app/den-den/releases/2.0.92.0.zip
+0a5f4009a897b6d2bc29061ff82d2161a490849f6a8e6f9a0b03fa7591c84cc6
+142541
